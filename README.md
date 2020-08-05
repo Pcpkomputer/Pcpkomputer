@@ -34,7 +34,7 @@
 
 ---
 
-<img align="left" alt="yudhacode" src="https://github-readme-stats.vercel.app/api?username=yudhacode&show_icons=true&hide_border=true" />
+<img align="left" alt="yudhacode" src="https://github-readme-stats.vercel.app/api?username=pcpkomputer&show_icons=true&hide_border=true" />
 
 [website]: https://padangperwirayudha.github.io
 [twitter]: https://twitter.com/yudhacode
