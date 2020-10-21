@@ -1,7 +1,7 @@
 ### Hi there, I'm Padang Perwira Yudha - aka [yudhacode][website] 👋
 
-## I'm a Students, Fansubber, and Developer!
-- 🔭 I’m currently studying in Amikom University!
+## I'm a Learner, Fansubber, and Developer!
+- 🔭 I’m graduated from Amikom University with 3.88 GPA
 - 🌱 I’m currently focused in machine learning!
 - 🥅 2020 Goals: Get a job and more productive
 - ⚡ Fun fact: I do fansubbing and translating
