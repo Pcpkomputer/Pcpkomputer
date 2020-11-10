@@ -3,7 +3,7 @@
 ## I'm a Learner, Fansubber, and Developer!
 - 🔭 I’m graduated from Amikom University with 3.88 GPA
 - 🌱 I’m currently focused in machine learning!
-- 🥅 2020 Goals: Get a job and more productive
+- 🥅 2021 Goals: Get a genuine relationships
 - ⚡ Fun fact: I do fansubbing and translating
 
 ### Connect with me:
